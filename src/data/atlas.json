@@ -1,0 +1,50 @@
+[
+  {
+    "id": "synchronous",
+    "title": "同步终止 · 持续放电",
+    "spatialTerminationPattern": "synchronous",
+    "terminalActivityPattern": "continuous",
+    "dataOrigin": "simulation",
+    "description": "四个模拟通道在同一时点停止，展示空间终止时间的一致性。",
+    "topicIds": [
+      "phenotypes"
+    ],
+    "relatedPaperIds": [
+      "35104646",
+      "29540685"
+    ],
+    "permission": "原创教学模拟，可公开展示；不含患者数据。"
+  },
+  {
+    "id": "asynchronous",
+    "title": "异步终止 · 持续放电",
+    "spatialTerminationPattern": "asynchronous",
+    "terminalActivityPattern": "continuous",
+    "dataOrigin": "simulation",
+    "description": "模拟通道按先后次序停止；间隔只用于教学，不代表临床阈值。",
+    "topicIds": [
+      "phenotypes"
+    ],
+    "relatedPaperIds": [
+      "35104646",
+      "29540685"
+    ],
+    "permission": "原创教学模拟，可公开展示；不含患者数据。"
+  },
+  {
+    "id": "burst-suppression",
+    "title": "同步终止 · 爆发抑制",
+    "spatialTerminationPattern": "synchronous",
+    "terminalActivityPattern": "burst",
+    "dataOrigin": "simulation",
+    "description": "末段爆发与静默交替，同时保持空间同步终止，说明两个分类维度相互独立。",
+    "topicIds": [
+      "phenotypes"
+    ],
+    "relatedPaperIds": [
+      "35104646",
+      "29540685"
+    ],
+    "permission": "原创教学模拟，可公开展示；不含患者数据。"
+  }
+]

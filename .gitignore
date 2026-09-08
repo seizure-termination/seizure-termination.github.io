@@ -1,0 +1,15 @@
+node_modules/
+dist/
+dist-subpath/
+.astro/
+sources/
+docs/*.png
+docs/qa-artifacts/
+*.log
+.env*
+!.env.example
+
+# Local research and execution documentation
+docs/
+promote.md
+start-local.ps1

@@ -1,0 +1,680 @@
+[
+  {
+    "id": "NCT01390220",
+    "slug": "nct01390220",
+    "registry": "ClinicalTrials.gov",
+    "registryId": "NCT01390220",
+    "alternateRegistryIds": [],
+    "canonicalUrl": "https://clinicaltrials.gov/study/NCT01390220",
+    "titleZh": "ARTEMIS-1 · 发作簇救援",
+    "briefTitle": "Study to Evaluate the Safety and Efficacy of USL261 (Intranasal Midazolam) in Patients With Seizure Clusters",
+    "officialTitle": "A Randomized, Double-blind, Placebo-controlled Study of the Safety and Efficacy of Intranasal Midazolam (USL261) in the Outpatient Treatment of Subjects With Seizure Clusters. ARTEMIS-1: Acute Rescue Therapy in Epilepsy With Midazolam Intranasal Spray-1",
+    "sponsor": "UCB Biopharma S.P.R.L.",
+    "conditions": [
+      "Epilepsy"
+    ],
+    "populationSummary": "12 Years — 未报告上限",
+    "studyType": "INTERVENTIONAL",
+    "phase": [
+      "PHASE3"
+    ],
+    "design": {
+      "allocation": "RANDOMIZED",
+      "interventionModel": "PARALLEL",
+      "primaryPurpose": "TREATMENT",
+      "maskingInfo": {
+        "masking": "TRIPLE",
+        "whoMasked": [
+          "PARTICIPANT",
+          "INVESTIGATOR",
+          "OUTCOMES_ASSESSOR"
+        ]
+      }
+    },
+    "interventions": [
+      {
+        "type": "DRUG",
+        "name": "USL261",
+        "armGroupLabels": [
+          "USL261"
+        ],
+        "otherNames": [
+          "Midazolam nasal spray (MDZ NS)"
+        ]
+      },
+      {
+        "type": "DRUG",
+        "name": "Placebo",
+        "armGroupLabels": [
+          "Placebo"
+        ]
+      }
+    ],
+    "comparators": [
+      {
+        "label": "USL261",
+        "type": "EXPERIMENTAL",
+        "description": "intranasal midazolam 5mg",
+        "interventionNames": [
+          "Drug: USL261"
+        ]
+      },
+      {
+        "label": "Placebo",
+        "type": "EXPERIMENTAL",
+        "description": "Intranasal placebo",
+        "interventionNames": [
+          "Drug: Placebo"
+        ]
+      }
+    ],
+    "endpointCategory": "发作簇控制",
+    "relevanceTier": "direct",
+    "inclusionReason": "院外发作簇中，比较急性终止及持续无复发的复合结局。",
+    "summary": "10 分钟内终止，且给药后 10 分钟至 6 小时无复发。主要终点同时考虑额外开放剂量。",
+    "primaryOutcomes": [
+      {
+        "measure": "Participants Who Met the Criteria for Treatment Success After Administration of the Double-blind Dose in the Comparative Phase (CP)",
+        "description": "Treatment Success is defined as achieving both of the following: 1) termination of seizure(s) within 10 minutes after double-blind study drug administration, and 2) no recurrence of seizure(s) beginning 10 minutes after study drug administration to 6 hours after study drug administration. Participants who received the open-label second dose within 6 hours of administration of the double-blind dose were analyzed as having had a seizure.",
+        "timeFrame": "6 hours"
+      }
+    ],
+    "secondaryOutcomes": [
+      {
+        "measure": "Participants With Seizure(s) >10 Minutes to 4 Hours After Administration of the Double-blind Dose",
+        "description": "Participants with recurrence of seizure(s) \\>10 minutes and up to 4 hours after administration of the double-blind dose in the CP. Participants who received the open-label second dose within 4 hours of administration of the double-blind dose were analyzed as having had a seizure.",
+        "timeFrame": "4 hours"
+      },
+      {
+        "measure": "Occurrence of Seizure With a Start Time >10 Minutes After Administration of the Double-blind Dose",
+        "description": "Occurrence of next seizure with a start time \\>10 minutes and up to 24 hours after administration of the double-blind dose in the CP. Participants who did not have another seizure before the end of the 24-hour observation period were censored at the end of the observation period. Participants administered the open-label second dose who did not have a seizure were censored at the time of the administration.",
+        "timeFrame": "24 hours"
+      },
+      {
+        "measure": "Time to Next Seizure With a Start Time >10 Minutes After Administration of the Double-blind Dose",
+        "description": "Time to next seizure with a start time \\>10 minutes and up to 24 hours after administration of the double-blind dose in the CP. Participants who did not have another seizure before the end of the 24-hour observation period were censored at the end of the observation period. Participants administered the open-label second dose who did not have a seizure were censored at the time of the administration.",
+        "timeFrame": "24 hours"
+      }
+    ],
+    "enrollment": {
+      "count": 292,
+      "type": "ACTUAL"
+    },
+    "statusRaw": "TERMINATED",
+    "statusZh": "研究提前终止",
+    "whyStopped": null,
+    "countries": [
+      "Australia",
+      "Canada",
+      "Germany",
+      "Hungary",
+      "Israel",
+      "Italy",
+      "New Zealand",
+      "Poland",
+      "Spain",
+      "Ukraine",
+      "United States"
+    ],
+    "startDate": {
+      "date": "2011-06",
+      "type": "ACTUAL"
+    },
+    "primaryCompletionDate": {
+      "date": "2017-03",
+      "type": "ACTUAL"
+    },
+    "completionDate": {
+      "date": "2017-03",
+      "type": "ACTUAL"
+    },
+    "registryLastUpdatedAt": "2019-10-10",
+    "verifiedAt": "2026-09-08",
+    "sourceVersion": "2019-10-10",
+    "snapshotPath": "sources/NCT01390220.json",
+    "resultsPosted": true,
+    "relatedPaperIds": [
+      "31140596"
+    ],
+    "verificationStatus": "publishable",
+    "locale": "zh-CN"
+  },
+  {
+    "id": "NCT01960075",
+    "slug": "nct01960075",
+    "registry": "ClinicalTrials.gov",
+    "registryId": "NCT01960075",
+    "alternateRegistryIds": [],
+    "canonicalUrl": "https://clinicaltrials.gov/study/NCT01960075",
+    "titleZh": "ESETT · 持续状态药物比较",
+    "briefTitle": "Established Status Epilepticus Treatment Trial",
+    "officialTitle": "A Multicenter, Randomized, Blinded, Comparative Effectiveness Study of Fosphenytoin, Valproic Acid, or Levetiracetam in the Emergency Department Treatment of Patients With Benzodiazepine-refractory Status Epilepticus.",
+    "sponsor": "University of Virginia",
+    "conditions": [
+      "Benzodiazepine Refractory Status Epilepticus"
+    ],
+    "populationSummary": "2 Years — 未报告上限",
+    "studyType": "INTERVENTIONAL",
+    "phase": [
+      "PHASE3"
+    ],
+    "design": {
+      "allocation": "RANDOMIZED",
+      "interventionModel": "PARALLEL",
+      "interventionModelDescription": "ESETT had 478 enrollments. They were 16 re-enrollers. This was an EFIC trial so all consents happened after treatment and all enrollments went through the same process of consent even if they were re-enrolled. Some information presented here only includes the first 400 patients since there was a prespecified stopping rule and the trial stopped early for futility.",
+      "primaryPurpose": "TREATMENT",
+      "maskingInfo": {
+        "masking": "TRIPLE",
+        "whoMasked": [
+          "PARTICIPANT",
+          "INVESTIGATOR",
+          "OUTCOMES_ASSESSOR"
+        ]
+      }
+    },
+    "interventions": [
+      {
+        "type": "DRUG",
+        "name": "Fosphenytoin",
+        "armGroupLabels": [
+          "Fosphenytoin (FOS)"
+        ]
+      },
+      {
+        "type": "DRUG",
+        "name": "Levetiracetam",
+        "armGroupLabels": [
+          "Levetiracetam"
+        ]
+      },
+      {
+        "type": "DRUG",
+        "name": "Valproic acid",
+        "armGroupLabels": [
+          "Valproic acid"
+        ]
+      }
+    ],
+    "comparators": [
+      {
+        "label": "Fosphenytoin (FOS)",
+        "type": "ACTIVE_COMPARATOR",
+        "description": "Administer 20 mg/Kg fosphenytoin intravenously up to a maximum dose of 1500 mg ( 75 Kg) over 10 minutes. Those weighing more than 75 Kg receive a fixed dose of 1500 fosphenytoin over 10 minutes.",
+        "interventionNames": [
+          "Drug: Fosphenytoin"
+        ]
+      },
+      {
+        "label": "Valproic acid",
+        "type": "ACTIVE_COMPARATOR",
+        "description": "Administer 40 mg/Kg valproic acid intravenously up to a maximum dose of 3000 mg (75 Kg) over 10 minutes. Those weighing more than 75 Kg receive a fixed dose of 3000 valproic acidover 10 minutes.",
+        "interventionNames": [
+          "Drug: Valproic acid"
+        ]
+      },
+      {
+        "label": "Levetiracetam",
+        "type": "ACTIVE_COMPARATOR",
+        "description": "Administer 60 mg/Kg levetiracetam intravenously up to a maximum dose of 4500 mg ( 75 Kg) over 10 minutes. Those weighing more than 75 Kg receive a fixed dose of 4500 levetiracetam over 10 minutes.",
+        "interventionNames": [
+          "Drug: Levetiracetam"
+        ]
+      }
+    ],
+    "endpointCategory": "持续状态控制",
+    "relevanceTier": "direct",
+    "inclusionReason": "比较苯二氮䓬类治疗后持续的惊厥状态的二线药物。",
+    "summary": "输注开始后 60 分钟内临床发作消失、意识改善，且无需其他抗惊厥药；保留不同分析集。",
+    "primaryOutcomes": [
+      {
+        "measure": "Number of Participants With Clinical Cessation of Status Epilepticus - Intention to Treat",
+        "description": "Determined by the absence of clinically apparent seizures and improving consciousness at 1 hour without other anticonvulsant medications. Intention to treat",
+        "timeFrame": "Within 60 minutes after the start of study drug infusion"
+      },
+      {
+        "measure": "Number of Participants With Clinical Cessation of Status Epilepticus - Per-protocol Analysis",
+        "description": "Determined by the absence of clinically apparent seizures and improving consciousness at 1 hour without other anticonvulsant medications. Per-protocol analysis",
+        "timeFrame": "Within 60 minutes after the start of study drug infusion"
+      },
+      {
+        "measure": "Number of Participants With Clinical Cessation of Status Epilepticus - Adjudicated Outcomes Analysis",
+        "description": "Determined by the absence of clinically apparent seizures and improving consciousness at 1 hour without other anticonvulsant medications. The Adjudicated outcomes analysis is different from Outcome measure 1 because a central clinical phenomenology core of four neurologists adjudicated from the medical records the time to seizure cessation, the time in status epilepticus before trial-drug initiation, and the cause of the seizure. For each enrollment, two neurologists from this core group conducted independent initial reviews and then determined a consensus or consulted a third adjudicator, as needed. Adjudicators were unaware of the treatment assignments and made determinations by medical record review.",
+        "timeFrame": "Within 60 minutes after the start of study drug infusion"
+      }
+    ],
+    "secondaryOutcomes": [
+      {
+        "measure": "Number of Participants With Admission to Intensive Care Unit",
+        "description": "ICU admission is recorded as occurring only if the ICU is the initial inpatient unit for the patient.",
+        "timeFrame": "Admission to intensive care unit after start of study drug infusion, where the ICU is the initial inpatient unit for the patient"
+      },
+      {
+        "measure": "Length of ICU Stay",
+        "description": "Length of stay is determined by the number of calendar days after the day of ED arrival until hospital discharge or subject end-of-study.",
+        "timeFrame": "number of calendar days after the day of ED arrival until hospital discharge or subject end-of-study"
+      },
+      {
+        "measure": "Minutes From Start of Trial Drug Infusion to Termination of Seizures for Patients With Treatment Success",
+        "description": "The time to termination of seizures is the interval from the start of study drug infusion to cessation of clinically apparent seizure in those who meet the primary outcome.",
+        "timeFrame": "start of drug infusion to seizure cessation"
+      },
+      {
+        "measure": "Number of Participants With Seizure Cessation Within 20 Minutes for Patients With Treatment Success",
+        "description": "Number of participants with seizure cessation within 20 minutes of study drug initiation for patients with treatment success. This outcome measure was only reported in the Supplementary materials to the Primary Paper.",
+        "timeFrame": "within 20 minutes"
+      },
+      {
+        "measure": "Length of Hospital Stay",
+        "description": "Length of hospital stay in days",
+        "timeFrame": "length of hospital stay"
+      }
+    ],
+    "enrollment": {
+      "count": 478,
+      "type": "ACTUAL"
+    },
+    "statusRaw": "COMPLETED",
+    "statusZh": "已完成",
+    "whyStopped": null,
+    "countries": [
+      "United States"
+    ],
+    "startDate": {
+      "date": "2015-10"
+    },
+    "primaryCompletionDate": {
+      "date": "2019-02",
+      "type": "ACTUAL"
+    },
+    "completionDate": {
+      "date": "2019-05",
+      "type": "ACTUAL"
+    },
+    "registryLastUpdatedAt": "2021-06-14",
+    "verifiedAt": "2026-09-08",
+    "sourceVersion": "2021-06-14",
+    "snapshotPath": "sources/NCT01960075.json",
+    "resultsPosted": true,
+    "relatedPaperIds": [
+      "31774955"
+    ],
+    "verificationStatus": "publishable",
+    "locale": "zh-CN"
+  },
+  {
+    "id": "NCT04391569",
+    "slug": "nct04391569",
+    "registry": "ClinicalTrials.gov",
+    "registryId": "NCT04391569",
+    "alternateRegistryIds": [],
+    "canonicalUrl": "https://clinicaltrials.gov/study/NCT04391569",
+    "titleZh": "RAISE · 静脉 ganaxolone",
+    "briefTitle": "Randomized Therapy In Status Epilepticus",
+    "officialTitle": "A Double-blind, Randomized, Placebo-controlled Study to Evaluate the Efficacy and Safety of Intravenous Ganaxolone in Status Epilepticus",
+    "sponsor": "Marinus Pharmaceuticals",
+    "conditions": [
+      "Status Epilepticus"
+    ],
+    "populationSummary": "12 Years — 未报告上限",
+    "studyType": "INTERVENTIONAL",
+    "phase": [
+      "PHASE3"
+    ],
+    "design": {
+      "allocation": "RANDOMIZED",
+      "interventionModel": "PARALLEL",
+      "primaryPurpose": "TREATMENT",
+      "maskingInfo": {
+        "masking": "QUADRUPLE",
+        "whoMasked": [
+          "PARTICIPANT",
+          "CARE_PROVIDER",
+          "INVESTIGATOR",
+          "OUTCOMES_ASSESSOR"
+        ]
+      }
+    },
+    "interventions": [
+      {
+        "type": "DRUG",
+        "name": "Ganaxolone",
+        "description": "Ganaxolone will be administered.",
+        "armGroupLabels": [
+          "IV ganaxolone active"
+        ]
+      },
+      {
+        "type": "DRUG",
+        "name": "Placebo",
+        "description": "Placebo will be administered.",
+        "armGroupLabels": [
+          "IV Placebo"
+        ]
+      }
+    ],
+    "comparators": [
+      {
+        "label": "IV Placebo",
+        "type": "PLACEBO_COMPARATOR",
+        "description": "Placebo bolus dose followed by continuous infusion for 36 hours, followed by 12 hour taper",
+        "interventionNames": [
+          "Drug: Placebo"
+        ]
+      },
+      {
+        "label": "IV ganaxolone active",
+        "type": "EXPERIMENTAL",
+        "description": "Ganaxolone bolus dose followed by continuous infusion for 36 hours, followed by 12 hour taper",
+        "interventionNames": [
+          "Drug: Ganaxolone"
+        ]
+      }
+    ],
+    "endpointCategory": "持续状态控制",
+    "relevanceTier": "direct",
+    "inclusionReason": "难治性持续状态中的临床／EEG 终止和后续麻醉需求。",
+    "summary": "30 分钟内终止、36 小时内无需进展至静脉麻醉，以及治疗期间不良事件分别列为主要结局。",
+    "primaryOutcomes": [
+      {
+        "measure": "Percentage of Participants With SE Cessation Within 30 Minutes of Investigational Product (IP) Initiation Without Medications for the Acute Treatment of SE",
+        "description": "SE cessation was determined by the investigator based on clinical and electroencephalography (EEG). Medications for the acute treatment of SE were defined as antiepileptic drugs (AEDs) administered to abort ongoing SE or prevent imminent recurrence of SE based on clinical or EEG evidence.",
+        "timeFrame": "Up to 30 minutes"
+      },
+      {
+        "measure": "Percentage of Participants With no Progression to Intravenous (IV) Anesthesia for 36 Hours Following Investigational Product (IP) Initiation",
+        "description": "Percentage of participants with no progression to IV anesthesia for 36 hours following IP initiation SE cessation was based on investigator report with confirmation by assessment of concomitant medication data.",
+        "timeFrame": "Up to 36 hours after IP initiation"
+      },
+      {
+        "measure": "Number of Participants With Treatment Emergent Adverse Events",
+        "description": "An adverse event (AE) is any untoward medical occurrence in a clinical investigation participant who has been administered a pharmaceutical product; it does not necessarily have a causal relationship with this treatment. Treatment-emergent adverse event (TEAE) is defined as an AE that occurred or worsened at the time of or following IP initiation.",
+        "timeFrame": "Up to 4 weeks after IP initiation"
+      }
+    ],
+    "secondaryOutcomes": [
+      {
+        "measure": "Percentage of Participants With no Progression to IV Anesthesia for 72 Hours Following IP Initiation",
+        "description": "Percentage of participants with no progression to IV anesthesia for 72 hours following IP initiation SE cessation was assessed by the investigator based on clinical and EEG features.",
+        "timeFrame": "Up to 72 hours after IP initiation"
+      },
+      {
+        "measure": "Time to SE Cessation Following IP Initiation",
+        "description": "Time to SE cessation was assessed for the first 72 hours following IP using the Kaplan-Meier method.",
+        "timeFrame": "Up to 72 hours after IP initiation"
+      },
+      {
+        "measure": "Percentage of Participants With Any Escalation of Treatment in the First 24 Hours Following IP Initiation",
+        "description": "SE cessation will be determined by the investigator based on clinical and EEG. Percentage of participants with any escalation of treatment in the first 24 hours following IP initiation, i.e. any medication other than IP administered for the acute treatment of SE in the first 24 hours following IP initiation was summarized",
+        "timeFrame": "Up to 24 hours after IP initiation"
+      },
+      {
+        "measure": "Time to Treatment Escalation in the First 24 Hours Following IP Initiation",
+        "description": "For time to treatment escalation (any mediation used for acute treatment of SE), the estimates are based descriptive statistics on participants with treatment escalation in the first 24 hours following IP initiation. For participants without treatment escalation, the time to treatment escalation was censored at IP completion, or discontinuation from the study or death, whichever occurs earlier. The median time to treatment escalation has been presented.",
+        "timeFrame": "Up to 24 hours after IP initiation"
+      },
+      {
+        "measure": "Time to Initiation of Anesthesia for SE Treatment Through the Final Study Follow-up Visit/Contact",
+        "description": "Time to initiation of anesthesia for SE treatment through the final study follow-up visit/contact, were calculated based on descriptive statistics. The estimate was censored at study discontinuation, death, or last follow-up of the participant, whichever occurs first. The median time to initiation of anesthesia has been presented.",
+        "timeFrame": "Up to 4 Weeks following IP initiation"
+      },
+      {
+        "measure": "Percentage of Participants Who Develop Super Refractory Status Epilepticus (SRSE) Through the Final Study Follow-up Visit/Contact",
+        "description": "Percentage of participants who developed SRSE through the final study follow-up visit/contact was provided for each treatment group.",
+        "timeFrame": "Up to 4 Weeks following IP initiation"
+      },
+      {
+        "measure": "Percent Change From Baseline in Seizure Burden Through 72 Hours Following IP Initiation",
+        "description": "The seizure burden through 72 hours following IP initiation is described as the percent of time during which there is electrographic seizure activity from IP initiation to 72 hours. The change from baseline of seizure burden was summarized using descriptive statistics by treatment group. The baseline seizure burden is defined for 30 minutes prior to IP initiation.",
+        "timeFrame": "Up to 72 hours after IP initiation"
+      }
+    ],
+    "enrollment": {
+      "count": 100,
+      "type": "ACTUAL"
+    },
+    "statusRaw": "COMPLETED",
+    "statusZh": "已完成",
+    "whyStopped": null,
+    "countries": [
+      "Australia",
+      "Canada",
+      "United States"
+    ],
+    "startDate": {
+      "date": "2020-12-09",
+      "type": "ACTUAL"
+    },
+    "primaryCompletionDate": {
+      "date": "2024-03-30",
+      "type": "ACTUAL"
+    },
+    "completionDate": {
+      "date": "2024-04-28",
+      "type": "ACTUAL"
+    },
+    "registryLastUpdatedAt": "2025-05-29",
+    "verifiedAt": "2026-09-08",
+    "sourceVersion": "2025-05-29",
+    "snapshotPath": "sources/NCT04391569.json",
+    "resultsPosted": true,
+    "relatedPaperIds": [],
+    "verificationStatus": "publishable",
+    "locale": "zh-CN"
+  },
+  {
+    "id": "NCT06344338",
+    "slug": "nct06344338",
+    "registry": "ClinicalTrials.gov",
+    "registryId": "NCT06344338",
+    "alternateRegistryIds": [],
+    "canonicalUrl": "https://clinicaltrials.gov/study/NCT06344338",
+    "titleZh": "tDCS · 难治性持续状态",
+    "briefTitle": "Application of tDCS Stimulation in Controlling Refractory Status Epilepticus",
+    "officialTitle": "Application of Targeting Transcranial Direct Current Stimulation (tDCS) Stimulation in the Treatment of Refractory Status Epilepticus",
+    "sponsor": "Xuanwu Hospital, Beijing",
+    "conditions": [
+      "Refractory Status Epilepticus"
+    ],
+    "populationSummary": "14 Years — 80 Years",
+    "studyType": "INTERVENTIONAL",
+    "phase": [
+      "NA"
+    ],
+    "design": {
+      "allocation": "RANDOMIZED",
+      "interventionModel": "PARALLEL",
+      "interventionModelDescription": "The patients who meet the eligibility requirements will be randomized in a 1:1 ratio to undergo targeting tDCS stimulation (up to 10 times) or sham stimulation",
+      "primaryPurpose": "TREATMENT",
+      "maskingInfo": {
+        "masking": "DOUBLE",
+        "whoMasked": [
+          "PARTICIPANT",
+          "CARE_PROVIDER"
+        ]
+      }
+    },
+    "interventions": [
+      {
+        "type": "DEVICE",
+        "name": "tDCS stimulation",
+        "description": "In the real-stimulation group, Treatment was for 20 min, repeated twice in a day, then again over the next few days. The maximum number of stimuli required to terminate the status epilepticus should not exceed 10. In the sham-stimulation group, The duration and frequency of tDCS are the same as those in the treatment group, but the tDCS device is not active during the 20 minutes of sham-stimulation",
+        "armGroupLabels": [
+          "tDCS treatment group"
+        ]
+      },
+      {
+        "type": "DEVICE",
+        "name": "TDCS sham-stimulation",
+        "description": "TDCS sham-stimulation",
+        "armGroupLabels": [
+          "TDCS sham-stimulation group"
+        ]
+      }
+    ],
+    "comparators": [
+      {
+        "label": "tDCS treatment group",
+        "type": "EXPERIMENTAL",
+        "description": "In the real tDCS stimulation group, direct cathodal current at 2 mA was delivered by a tDCS device over the seizure onset zone. Anode was on the contralateral forehead. Treatment was for 20 min, repeated twice in a day, then again over the next few days. The maximum number of stimuli required to terminate the status epilepticus should not exceed 10.",
+        "interventionNames": [
+          "Device: tDCS stimulation"
+        ]
+      },
+      {
+        "label": "TDCS sham-stimulation group",
+        "type": "SHAM_COMPARATOR",
+        "description": "The duration and frequency of tDCS treatments in the sham-stimulation group are the same as those in the treatment group, but the tDCS device is not active during the 20 minutes of sham-stimulation.",
+        "interventionNames": [
+          "Device: TDCS sham-stimulation"
+        ]
+      }
+    ],
+    "endpointCategory": "持续状态控制",
+    "relevanceTier": "direct",
+    "inclusionReason": "比较靶向经颅直流刺激与假刺激的持续状态终止。",
+    "summary": "登记的主要结局为两组持续状态终止人数；时间窗原文为研究完成期间，平均 1 年。不能改写为分钟级急性终止率。",
+    "primaryOutcomes": [
+      {
+        "measure": "Number of participants with status epilepticus termination between tDCS treatment group and tDCS sham--stimulation group as assessed by Salzburg Consensus Criteria for Non-Convulsive Status Epilepticus",
+        "description": "Outcomes will be assessed by clinical observation and EEG evaluation before 10 times of tDCS stimulation between both groups",
+        "timeFrame": "through study completion, an average of 1 year"
+      }
+    ],
+    "secondaryOutcomes": [
+      {
+        "measure": "Number of participants with treatment-related adverse events between tDCS treatment group and tDCS sham--stimulation group",
+        "description": "Treatment-emergent adverse events will be assessed by clinical observation between tDCS treatment group and tDCS sham--stimulation group",
+        "timeFrame": "through study completion, an average of 1 year"
+      }
+    ],
+    "enrollment": {
+      "count": 32,
+      "type": "ESTIMATED"
+    },
+    "statusRaw": "RECRUITING",
+    "statusZh": "正在招募",
+    "whyStopped": null,
+    "countries": [
+      "China"
+    ],
+    "startDate": {
+      "date": "2024-04-01",
+      "type": "ACTUAL"
+    },
+    "primaryCompletionDate": {
+      "date": "2026-10-01",
+      "type": "ESTIMATED"
+    },
+    "completionDate": {
+      "date": "2026-10-01",
+      "type": "ESTIMATED"
+    },
+    "registryLastUpdatedAt": "2026-08-04",
+    "verifiedAt": "2026-09-08",
+    "sourceVersion": "2026-08-04",
+    "snapshotPath": "sources/NCT06344338.json",
+    "resultsPosted": false,
+    "relatedPaperIds": [],
+    "verificationStatus": "publishable",
+    "locale": "zh-CN"
+  },
+  {
+    "id": "NCT04839601",
+    "slug": "nct04839601",
+    "registry": "ClinicalTrials.gov",
+    "registryId": "NCT04839601",
+    "alternateRegistryIds": [],
+    "canonicalUrl": "https://clinicaltrials.gov/study/NCT04839601",
+    "titleZh": "RESPONSE · 反应性神经刺激",
+    "briefTitle": "RNS System RESPONSE Study",
+    "officialTitle": "RNS® System Responsive Stimulation for Adolescents With Epilepsy Study",
+    "sponsor": "NeuroPace",
+    "conditions": [
+      "Epilepsy",
+      "Partial Seizure",
+      "Neurostimulator; Complications",
+      "Drug Resistant Epilepsy",
+      "Focal Epilepsy"
+    ],
+    "populationSummary": "12 Years — 17 Years",
+    "studyType": "INTERVENTIONAL",
+    "phase": [
+      "NA"
+    ],
+    "design": {
+      "allocation": "NA",
+      "interventionModel": "SINGLE_GROUP",
+      "primaryPurpose": "TREATMENT",
+      "maskingInfo": {
+        "masking": "NONE"
+      }
+    },
+    "interventions": [
+      {
+        "type": "DEVICE",
+        "name": "RNS System",
+        "description": "The RNS System provides closed loop responsive brain stimulation. The Neurostimulator monitors the electrical activity of the brain to detect abnormal activity that could lead to a seizure. If abnormal activity is detected, the neurostimulator delivers electrical stimulation to the brain through the leads to help prevent the seizure before it occurs.",
+        "armGroupLabels": [
+          "Evaluation Group (stimulation ON)"
+        ]
+      }
+    ],
+    "comparators": [
+      {
+        "label": "Evaluation Group (stimulation ON)",
+        "type": "EXPERIMENTAL",
+        "description": "Group of participants that have an RNS System implanted and are being treated with responsive stimulation.",
+        "interventionNames": [
+          "Device: RNS System"
+        ]
+      }
+    ],
+    "endpointCategory": "长期发作控制",
+    "relevanceTier": "context",
+    "inclusionReason": "背景研究：主要疗效终点是植入后 12 个月应答率，不是单次发作中断。",
+    "summary": "主要安全性为植入后 84 天严重器械相关不良事件；主要疗效为 12 个月相对基线的发作减少应答。",
+    "primaryOutcomes": [
+      {
+        "measure": "Short-term chronic serious adverse device effect (SADE) rate",
+        "description": "The primary safety endpoint is the percent of subjects with serious device-related adverse events at 84 days (12 weeks) post-implant.",
+        "timeFrame": "84-days post-implant"
+      },
+      {
+        "measure": "Responder rate at 12 months post implant",
+        "description": "12 months post-implant",
+        "timeFrame": "The primary effectiveness endpoint is the percent of subjects with a ≥ 50% reduction in seizures at 12 months post-implant compared to the pre-implant baseline."
+      }
+    ],
+    "secondaryOutcomes": [],
+    "enrollment": {
+      "count": 9,
+      "type": "ACTUAL"
+    },
+    "statusRaw": "TERMINATED",
+    "statusZh": "研究提前终止",
+    "whyStopped": "Inadequate Enrollment",
+    "countries": [
+      "United States"
+    ],
+    "startDate": {
+      "date": "2021-10-27",
+      "type": "ACTUAL"
+    },
+    "primaryCompletionDate": {
+      "date": "2025-05-01",
+      "type": "ACTUAL"
+    },
+    "completionDate": {
+      "date": "2025-05-01",
+      "type": "ACTUAL"
+    },
+    "registryLastUpdatedAt": "2025-05-22",
+    "verifiedAt": "2026-09-08",
+    "sourceVersion": "2025-05-22",
+    "snapshotPath": "sources/NCT04839601.json",
+    "resultsPosted": false,
+    "relatedPaperIds": [],
+    "verificationStatus": "publishable",
+    "locale": "zh-CN"
+  }
+]

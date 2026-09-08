@@ -1,0 +1,97 @@
+{
+  "NCT01390220": {
+    "statusRaw": "TERMINATED",
+    "primaryOutcomes": [
+      {
+        "measure": "Participants Who Met the Criteria for Treatment Success After Administration of the Double-blind Dose in the Comparative Phase (CP)",
+        "description": "Treatment Success is defined as achieving both of the following: 1) termination of seizure(s) within 10 minutes after double-blind study drug administration, and 2) no recurrence of seizure(s) beginning 10 minutes after study drug administration to 6 hours after study drug administration. Participants who received the open-label second dose within 6 hours of administration of the double-blind dose were analyzed as having had a seizure.",
+        "timeFrame": "6 hours"
+      }
+    ],
+    "resultsPosted": true,
+    "registryLastUpdatedAt": "2019-10-10",
+    "sourceUrl": "https://clinicaltrials.gov/study/NCT01390220",
+    "verifiedAt": "2026-09-08"
+  },
+  "NCT01960075": {
+    "statusRaw": "COMPLETED",
+    "primaryOutcomes": [
+      {
+        "measure": "Number of Participants With Clinical Cessation of Status Epilepticus - Intention to Treat",
+        "description": "Determined by the absence of clinically apparent seizures and improving consciousness at 1 hour without other anticonvulsant medications. Intention to treat",
+        "timeFrame": "Within 60 minutes after the start of study drug infusion"
+      },
+      {
+        "measure": "Number of Participants With Clinical Cessation of Status Epilepticus - Per-protocol Analysis",
+        "description": "Determined by the absence of clinically apparent seizures and improving consciousness at 1 hour without other anticonvulsant medications. Per-protocol analysis",
+        "timeFrame": "Within 60 minutes after the start of study drug infusion"
+      },
+      {
+        "measure": "Number of Participants With Clinical Cessation of Status Epilepticus - Adjudicated Outcomes Analysis",
+        "description": "Determined by the absence of clinically apparent seizures and improving consciousness at 1 hour without other anticonvulsant medications. The Adjudicated outcomes analysis is different from Outcome measure 1 because a central clinical phenomenology core of four neurologists adjudicated from the medical records the time to seizure cessation, the time in status epilepticus before trial-drug initiation, and the cause of the seizure. For each enrollment, two neurologists from this core group conducted independent initial reviews and then determined a consensus or consulted a third adjudicator, as needed. Adjudicators were unaware of the treatment assignments and made determinations by medical record review.",
+        "timeFrame": "Within 60 minutes after the start of study drug infusion"
+      }
+    ],
+    "resultsPosted": true,
+    "registryLastUpdatedAt": "2021-06-14",
+    "sourceUrl": "https://clinicaltrials.gov/study/NCT01960075",
+    "verifiedAt": "2026-09-08"
+  },
+  "NCT04391569": {
+    "statusRaw": "COMPLETED",
+    "primaryOutcomes": [
+      {
+        "measure": "Percentage of Participants With SE Cessation Within 30 Minutes of Investigational Product (IP) Initiation Without Medications for the Acute Treatment of SE",
+        "description": "SE cessation was determined by the investigator based on clinical and electroencephalography (EEG). Medications for the acute treatment of SE were defined as antiepileptic drugs (AEDs) administered to abort ongoing SE or prevent imminent recurrence of SE based on clinical or EEG evidence.",
+        "timeFrame": "Up to 30 minutes"
+      },
+      {
+        "measure": "Percentage of Participants With no Progression to Intravenous (IV) Anesthesia for 36 Hours Following Investigational Product (IP) Initiation",
+        "description": "Percentage of participants with no progression to IV anesthesia for 36 hours following IP initiation SE cessation was based on investigator report with confirmation by assessment of concomitant medication data.",
+        "timeFrame": "Up to 36 hours after IP initiation"
+      },
+      {
+        "measure": "Number of Participants With Treatment Emergent Adverse Events",
+        "description": "An adverse event (AE) is any untoward medical occurrence in a clinical investigation participant who has been administered a pharmaceutical product; it does not necessarily have a causal relationship with this treatment. Treatment-emergent adverse event (TEAE) is defined as an AE that occurred or worsened at the time of or following IP initiation.",
+        "timeFrame": "Up to 4 weeks after IP initiation"
+      }
+    ],
+    "resultsPosted": true,
+    "registryLastUpdatedAt": "2025-05-29",
+    "sourceUrl": "https://clinicaltrials.gov/study/NCT04391569",
+    "verifiedAt": "2026-09-08"
+  },
+  "NCT06344338": {
+    "statusRaw": "RECRUITING",
+    "primaryOutcomes": [
+      {
+        "measure": "Number of participants with status epilepticus termination between tDCS treatment group and tDCS sham--stimulation group as assessed by Salzburg Consensus Criteria for Non-Convulsive Status Epilepticus",
+        "description": "Outcomes will be assessed by clinical observation and EEG evaluation before 10 times of tDCS stimulation between both groups",
+        "timeFrame": "through study completion, an average of 1 year"
+      }
+    ],
+    "resultsPosted": false,
+    "registryLastUpdatedAt": "2026-08-04",
+    "sourceUrl": "https://clinicaltrials.gov/study/NCT06344338",
+    "verifiedAt": "2026-09-08"
+  },
+  "NCT04839601": {
+    "statusRaw": "TERMINATED",
+    "primaryOutcomes": [
+      {
+        "measure": "Short-term chronic serious adverse device effect (SADE) rate",
+        "description": "The primary safety endpoint is the percent of subjects with serious device-related adverse events at 84 days (12 weeks) post-implant.",
+        "timeFrame": "84-days post-implant"
+      },
+      {
+        "measure": "Responder rate at 12 months post implant",
+        "description": "12 months post-implant",
+        "timeFrame": "The primary effectiveness endpoint is the percent of subjects with a ≥ 50% reduction in seizures at 12 months post-implant compared to the pre-implant baseline."
+      }
+    ],
+    "resultsPosted": false,
+    "registryLastUpdatedAt": "2025-05-22",
+    "sourceUrl": "https://clinicaltrials.gov/study/NCT04839601",
+    "verifiedAt": "2026-09-08"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "seizure-termination",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev --host 127.0.0.1 --port 4321",
+    "build": "node scripts/validate-content.mjs && astro build",
+    "preview": "node scripts/serve.mjs --port 4321",
+    "check": "astro check",
+    "validate": "node scripts/validate-content.mjs",
+    "check:links": "node scripts/check-internal-links.mjs",
+    "test:browser": "node tests/browser.mjs",
+    "update:trials": "node scripts/update-trials.mjs",
+    "test:bilingual": "node tests/bilingual.mjs"
+  },
+  "dependencies": {
+    "astro": "latest"
+  },
+  "devDependencies": {
+    "@astrojs/check": "latest",
+    "typescript": "~5.9.3",
+    "playwright": "latest"
+  },
+  "packageManager": "pnpm@11.19.0",
+  "engines": {
+    "node": ">=22.12.0"
+  }
+}

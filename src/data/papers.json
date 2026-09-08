@@ -1,0 +1,1532 @@
+[
+  {
+    "pmid": "23213262",
+    "titleOriginal": "Human seizures self-terminate across spatial scales via a critical transition.",
+    "authors": [
+      "Mark A Kramer",
+      "Wilson Truccolo",
+      "Uri T Eden",
+      "Kyle Q Lepage",
+      "Leigh R Hochberg",
+      "Emad N Eskandar",
+      "Joseph R Madsen",
+      "Jong W Lee",
+      "Atul Maheshwari",
+      "Eric Halgren",
+      "Catherine J Chu",
+      "Sydney S Cash"
+    ],
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "year": "2012",
+    "doi": "10.1073/pnas.1210047110",
+    "pmcid": "PMC3529091",
+    "publicationTypes": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "volume": "109",
+    "pages": "21116",
+    "relatedCorrections": [],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/23213262/",
+    "id": "23213262",
+    "slug": "23213262",
+    "titleZh": "跨尺度的发作自发终止与临界转换",
+    "studySystems": [
+      "human",
+      "model"
+    ],
+    "topicIds": [
+      "network-transitions",
+      "phenotypes"
+    ],
+    "design": "多尺度电生理与计算模型",
+    "modelOrPopulation": "多尺度电生理与计算模型",
+    "recordingModalities": [],
+    "relevanceTier": "direct",
+    "inclusionReason": "终止前是否存在共同的动力学特征？",
+    "question": "终止前是否存在共同的动力学特征？",
+    "findings": [
+      "人类记录中可见减慢、相关性增加及状态闪烁；双稳态模型可重现部分现象。"
+    ],
+    "limitations": [
+      "动力学相似性不能唯一确定生物机制，也不等于已验证的在线终止预测。"
+    ],
+    "evidenceLabels": [
+      "观察与模型"
+    ],
+    "endpointTypes": [
+      "终止与恢复"
+    ],
+    "fullTextAccess": "abstract-only",
+    "verificationStatus": "publishable",
+    "publicationStatus": "正式发表",
+    "verifiedAt": "2026-09-08",
+    "sourceLocators": [
+      "PubMed / Abstract"
+    ],
+    "relatedTrialIds": [],
+    "locale": "zh-CN"
+  },
+  {
+    "pmid": "35104646",
+    "titleOriginal": "Quantifying seizure termination patterns reveals limited pathways to seizure end.",
+    "authors": [
+      "Pariya Salami",
+      "Mia Borzello",
+      "Mark A Kramer",
+      "M Brandon Westover",
+      "Sydney S Cash"
+    ],
+    "journal": "Neurobiology of disease",
+    "year": "2022",
+    "doi": "10.1016/j.nbd.2022.105645",
+    "pmcid": "PMC8860887",
+    "publicationTypes": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "volume": "165",
+    "pages": "105645",
+    "relatedCorrections": [],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/35104646/",
+    "id": "35104646",
+    "slug": "35104646",
+    "titleZh": "有限的癫痫发作终止模式",
+    "studySystems": [
+      "human"
+    ],
+    "topicIds": [
+      "phenotypes",
+      "network-transitions"
+    ],
+    "design": "颅内 EEG 观察研究",
+    "modelOrPopulation": "颅内 EEG 观察研究",
+    "recordingModalities": [],
+    "relevanceTier": "direct",
+    "inclusionReason": "空间终止顺序与末段活动形态如何组合？",
+    "question": "空间终止顺序与末段活动形态如何组合？",
+    "findings": [
+      "研究把同步／异步终止与爆发抑制／持续放电分开分类，并比较能量和网络连接。"
+    ],
+    "limitations": [
+      "有限模式是该数据集支持的分类解释；电极覆盖及分类定义影响外推。"
+    ],
+    "evidenceLabels": [
+      "人类观察／临床研究"
+    ],
+    "endpointTypes": [
+      "终止与恢复"
+    ],
+    "fullTextAccess": "abstract-only",
+    "verificationStatus": "publishable",
+    "publicationStatus": "正式发表",
+    "verifiedAt": "2026-09-08",
+    "sourceLocators": [
+      "PubMed / Abstract"
+    ],
+    "relatedTrialIds": [],
+    "locale": "zh-CN"
+  },
+  {
+    "pmid": "26552555",
+    "titleOriginal": "Termination patterns of complex partial seizures: An intracranial EEG study.",
+    "authors": [
+      "Pegah Afra",
+      "Christopher C Jouny",
+      "Gregory K Bergey"
+    ],
+    "journal": "Seizure",
+    "year": "2015",
+    "doi": "10.1016/j.seizure.2015.08.004",
+    "pmcid": "PMC4641827",
+    "publicationTypes": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ],
+    "volume": "32",
+    "pages": "9",
+    "relatedCorrections": [],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/26552555/",
+    "id": "26552555",
+    "slug": "26552555",
+    "titleZh": "颅内 EEG 中的同步与异步终止",
+    "studySystems": [
+      "human"
+    ],
+    "topicIds": [
+      "phenotypes"
+    ],
+    "design": "临床颅内记录",
+    "modelOrPopulation": "临床颅内记录",
+    "recordingModalities": [],
+    "relevanceTier": "direct",
+    "inclusionReason": "同步终止是否跨不同起始脑区出现？",
+    "question": "同步终止是否跨不同起始脑区出现？",
+    "findings": [
+      "内侧颞叶和新皮层起始的发作均可出现同步终止；部分患者同时存在不同模式。"
+    ],
+    "limitations": [
+      "原题使用历史术语 complex partial seizures；观察分组不能证明统一终止机制。"
+    ],
+    "evidenceLabels": [
+      "人类观察／临床研究"
+    ],
+    "endpointTypes": [
+      "终止与恢复"
+    ],
+    "fullTextAccess": "abstract-only",
+    "verificationStatus": "publishable",
+    "publicationStatus": "正式发表",
+    "verifiedAt": "2026-09-08",
+    "sourceLocators": [
+      "PubMed / Abstract"
+    ],
+    "relatedTrialIds": [],
+    "locale": "zh-CN"
+  },
+  {
+    "pmid": "18536711",
+    "titleOriginal": "Seizure termination by acidosis depends on ASIC1a.",
+    "authors": [
+      "Adam E Ziemann",
+      "Mikael K Schnizler",
+      "Gregory W Albert",
+      "Meryl A Severson",
+      "Matthew A Howard",
+      "Michael J Welsh",
+      "John A Wemmie"
+    ],
+    "journal": "Nature neuroscience",
+    "year": "2008",
+    "doi": "10.1038/nn.2132",
+    "pmcid": "PMC2553357",
+    "publicationTypes": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ],
+    "volume": "11",
+    "pages": "816",
+    "relatedCorrections": [
+      {
+        "type": "CommentIn",
+        "pmid": "19421382"
+      }
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/18536711/",
+    "id": "18536711",
+    "slug": "18536711",
+    "titleZh": "酸化依赖 ASIC1a 的终止机制",
+    "studySystems": [
+      "animal",
+      "exvivo"
+    ],
+    "topicIds": [
+      "cellular-circuits",
+      "intervention"
+    ],
+    "design": "小鼠遗传与药理实验",
+    "modelOrPopulation": "小鼠遗传与药理实验",
+    "recordingModalities": [],
+    "relevanceTier": "direct",
+    "inclusionReason": "酸敏感通道是否参与发作停止？",
+    "question": "酸敏感通道是否参与发作停止？",
+    "findings": [
+      "ASIC1a 缺失与过表达改变模型内发作进展；酸化作用与通道功能相关。"
+    ],
+    "limitations": [
+      "属于特定动物及实验条件的机制证据，不构成人类酸化治疗建议。"
+    ],
+    "evidenceLabels": [
+      "实验支持"
+    ],
+    "endpointTypes": [
+      "终止与恢复"
+    ],
+    "fullTextAccess": "abstract-only",
+    "verificationStatus": "publishable",
+    "publicationStatus": "正式发表",
+    "verifiedAt": "2026-09-08",
+    "sourceLocators": [
+      "PubMed / Abstract"
+    ],
+    "relatedTrialIds": [],
+    "locale": "zh-CN"
+  },
+  {
+    "pmid": "23340416",
+    "titleOriginal": "On-demand optogenetic control of spontaneous seizures in temporal lobe epilepsy.",
+    "authors": [
+      "Esther Krook-Magnuson",
+      "Caren Armstrong",
+      "Mikko Oijala",
+      "Ivan Soltesz"
+    ],
+    "journal": "Nature communications",
+    "year": "2013",
+    "doi": "10.1038/ncomms2376",
+    "pmcid": "PMC3562457",
+    "publicationTypes": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "volume": "4",
+    "pages": "1376",
+    "relatedCorrections": [],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/23340416/",
+    "id": "23340416",
+    "slug": "23340416",
+    "titleZh": "按需光遗传控制自发颞叶发作",
+    "studySystems": [
+      "animal"
+    ],
+    "topicIds": [
+      "intervention",
+      "cellular-circuits"
+    ],
+    "design": "慢性自发发作小鼠闭环实验",
+    "modelOrPopulation": "慢性自发发作小鼠闭环实验",
+    "recordingModalities": [],
+    "relevanceTier": "direct",
+    "inclusionReason": "实时检测后调节局部细胞群能否中断发作？",
+    "question": "实时检测后调节局部细胞群能否中断发作？",
+    "findings": [
+      "抑制主细胞或激活 PV 细胞可缩短检测后的电生理发作。"
+    ],
+    "limitations": [
+      "干预中断不等于自发终止机制；人体递送与安全性仍是独立问题。"
+    ],
+    "evidenceLabels": [
+      "实验支持"
+    ],
+    "endpointTypes": [
+      "终止与恢复"
+    ],
+    "fullTextAccess": "full-text",
+    "verificationStatus": "publishable",
+    "publicationStatus": "正式发表",
+    "verifiedAt": "2026-09-08",
+    "sourceLocators": [
+      "PubMed / Abstract",
+      "PMC / 主文与图表说明"
+    ],
+    "relatedTrialIds": [],
+    "locale": "zh-CN",
+    "figures": [
+      {
+        "label": "图 1",
+        "title": "闭环检测与随机触发",
+        "observation": "海马 EEG 特征触发光输出，部分事件随机不给光作为内部对照。",
+        "interpretation": "系统连接了检测与干预，但检测本身不证明疗效。"
+      },
+      {
+        "label": "图 2",
+        "title": "抑制主细胞",
+        "observation": "比较有光与无光事件的检测后持续时间，主细胞抑制可快速截短发作。",
+        "interpretation": "证据指向该小鼠模型中的急性干预效果。"
+      },
+      {
+        "label": "图 3",
+        "title": "激活 PV 细胞",
+        "observation": "比较同侧与对侧照光，观察到发作持续时间缩短。",
+        "interpretation": "支持局部细胞群及跨侧环路可影响发作。"
+      },
+      {
+        "label": "图 4",
+        "title": "光刺激作用验证",
+        "observation": "检查光照范围、标记及细胞电生理反应，使用不表达 opsin 的对照。",
+        "interpretation": "增强干预特异性解释，不能独立说明长期安全性。"
+      },
+      {
+        "label": "图 5",
+        "title": "行为发作",
+        "observation": "将检测后电生理与行为表现对照，报告行为发作减少。",
+        "interpretation": "行为和电生理是互补终点，不能相互替代。"
+      }
+    ],
+    "readingNote": "基于主文和主图表说明的要点解读；不复制原图。独立补充文件未全部核验。"
+  },
+  {
+    "pmid": "33769452",
+    "titleOriginal": "Medial septal GABAergic neurons reduce seizure duration upon optogenetic closed-loop stimulation.",
+    "authors": [
+      "Katerina Hristova",
+      "Cristina Martinez-Gonzalez",
+      "Thomas C Watson",
+      "Neela K Codadu",
+      "Kevan Hashemi",
+      "Peter C Kind",
+      "Matthew F Nolan",
+      "Alfredo Gonzalez-Sulser"
+    ],
+    "journal": "Brain : a journal of neurology",
+    "year": "2021",
+    "doi": "10.1093/brain/awab042",
+    "pmcid": "PMC8219369",
+    "publicationTypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "volume": "144",
+    "pages": "1576",
+    "relatedCorrections": [
+      {
+        "type": "CommentIn",
+        "pmid": "33844833"
+      },
+      {
+        "type": "ErratumIn",
+        "pmid": "34172994"
+      }
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/33769452/",
+    "id": "33769452",
+    "slug": "33769452",
+    "titleZh": "内侧隔 GABA 神经元与闭环终止",
+    "studySystems": [
+      "animal"
+    ],
+    "topicIds": [
+      "intervention",
+      "cellular-circuits"
+    ],
+    "design": "慢性海马内海人酸小鼠模型",
+    "modelOrPopulation": "慢性海马内海人酸小鼠模型",
+    "recordingModalities": [],
+    "relevanceTier": "direct",
+    "inclusionReason": "能否通过广泛投射的环路靶点缩短发作？",
+    "question": "能否通过广泛投射的环路靶点缩短发作？",
+    "findings": [
+      "内侧隔投射及调节海马振荡的能力得以保留；无线闭环光刺激缩短自发发作。"
+    ],
+    "limitations": [
+      "环路节律调节与缩短发作相关，具体下游因果链尚不能完全确定。"
+    ],
+    "evidenceLabels": [
+      "实验支持"
+    ],
+    "endpointTypes": [
+      "终止与恢复"
+    ],
+    "fullTextAccess": "full-text",
+    "verificationStatus": "publishable",
+    "publicationStatus": "正式发表",
+    "verifiedAt": "2026-09-08",
+    "sourceLocators": [
+      "PubMed / Abstract",
+      "PMC / 主文与图表说明"
+    ],
+    "relatedTrialIds": [],
+    "locale": "zh-CN",
+    "figures": [
+      {
+        "label": "图 1",
+        "title": "投射保留",
+        "observation": "组织学比较显示所测内侧隔神经元与海马投射未明显减少。",
+        "interpretation": "未显著减少不等于每条连接功能完整。"
+      },
+      {
+        "label": "图 2",
+        "title": "海马节律响应",
+        "observation": "多位置 LFP 和相位锁定分析显示光刺激能够调节海马振荡。",
+        "interpretation": "提供环路可调节性的生理证据。"
+      },
+      {
+        "label": "图 3",
+        "title": "频谱牵引分析",
+        "observation": "以功率比例量化刺激相关节律响应。",
+        "interpretation": "功率牵引不是发作终止本身。"
+      },
+      {
+        "label": "图 4",
+        "title": "行为影响",
+        "observation": "比较对照与刺激条件的行为变化，保留未显著差异的观察。",
+        "interpretation": "有限行为指标不能涵盖全部功能影响。"
+      },
+      {
+        "label": "图 5",
+        "title": "无线闭环",
+        "observation": "在慢性自发发作中比较触发刺激条件，报告持续时间缩短。",
+        "interpretation": "支持该干预范式，人体应用仍需验证。"
+      }
+    ],
+    "readingNote": "基于主文和主图表说明的要点解读；不复制原图。独立补充文件未全部核验。"
+  },
+  {
+    "pmid": "32599416",
+    "titleOriginal": "Activity- and pH-dependent adenosine shifts at the end of a focal seizure in the entorhinal cortex.",
+    "authors": [
+      "Laura Uva",
+      "Marco de Curtis"
+    ],
+    "journal": "Epilepsy research",
+    "year": "2020",
+    "doi": "10.1016/j.eplepsyres.2020.106401",
+    "pmcid": null,
+    "publicationTypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "volume": "165",
+    "pages": "106401",
+    "relatedCorrections": [],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/32599416/",
+    "id": "32599416",
+    "slug": "32599416",
+    "titleZh": "终止附近的腺苷与 pH 变化",
+    "studySystems": [
+      "exvivo"
+    ],
+    "topicIds": [
+      "cellular-circuits",
+      "recovery"
+    ],
+    "design": "离体豚鼠脑与生物传感器",
+    "modelOrPopulation": "离体豚鼠脑与生物传感器",
+    "recordingModalities": [],
+    "relevanceTier": "direct",
+    "inclusionReason": "腺苷与酸化变化发生在发作的什么阶段？",
+    "question": "腺苷与酸化变化发生在发作的什么阶段？",
+    "findings": [
+      "腺苷在事件末段升高，峰值位于终止后；药理操作支持其调节兴奋性的作用。"
+    ],
+    "limitations": [
+      "离体 seizure-like events 不能直接等同临床发作；峰值在终止后提示时间因果需谨慎。"
+    ],
+    "evidenceLabels": [
+      "实验支持"
+    ],
+    "endpointTypes": [
+      "终止与恢复"
+    ],
+    "fullTextAccess": "abstract-only",
+    "verificationStatus": "publishable",
+    "publicationStatus": "正式发表",
+    "verifiedAt": "2026-09-08",
+    "sourceLocators": [
+      "PubMed / Abstract"
+    ],
+    "relatedTrialIds": [],
+    "locale": "zh-CN"
+  },
+  {
+    "pmid": "18503563",
+    "titleOriginal": "How do seizures stop?",
+    "authors": [
+      "Fred A Lado",
+      "Solomon L Moshé"
+    ],
+    "journal": "Epilepsia",
+    "year": "2008",
+    "doi": "10.1111/j.1528-1167.2008.01669.x",
+    "pmcid": "PMC2738747",
+    "publicationTypes": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't",
+      "Review"
+    ],
+    "volume": "49",
+    "pages": "1651",
+    "relatedCorrections": [],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/18503563/",
+    "id": "18503563",
+    "slug": "18503563",
+    "titleZh": "癫痫发作为何停止？",
+    "studySystems": [
+      "review"
+    ],
+    "topicIds": [
+      "cellular-circuits",
+      "recovery"
+    ],
+    "design": "叙述性综述",
+    "modelOrPopulation": "叙述性综述",
+    "recordingModalities": [],
+    "relevanceTier": "context",
+    "inclusionReason": "哪些跨尺度机制可能共同参与终止？",
+    "question": "哪些跨尺度机制可能共同参与终止？",
+    "findings": [
+      "按膜、突触、网络和远端环路组织已有研究及假说。"
+    ],
+    "limitations": [
+      "这是历史综述与问题地图，不是新实验或完整的当前证据总集。"
+    ],
+    "evidenceLabels": [
+      "综述／共识"
+    ],
+    "endpointTypes": [
+      "终止与恢复"
+    ],
+    "fullTextAccess": "abstract-only",
+    "verificationStatus": "publishable",
+    "publicationStatus": "正式发表",
+    "verifiedAt": "2026-09-08",
+    "sourceLocators": [
+      "PubMed / Abstract"
+    ],
+    "relatedTrialIds": [],
+    "locale": "zh-CN"
+  },
+  {
+    "pmid": "21280091",
+    "titleOriginal": "Ictal very low frequency oscillation in human epilepsy patients.",
+    "authors": [
+      "Liankun Ren",
+      "Kiyohito Terada",
+      "Koichi Baba",
+      "Naotaka Usui",
+      "Shuichi Umeoka",
+      "Keiko Usui",
+      "Kazumi Matsuda",
+      "Takayasu Tottori",
+      "Fumihiro Nakamura",
+      "Tadahiro Mihara",
+      "Yushi Inoue"
+    ],
+    "journal": "Annals of neurology",
+    "year": "2011",
+    "doi": "10.1002/ana.22158",
+    "pmcid": null,
+    "publicationTypes": [
+      "Case Reports",
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "volume": "69",
+    "pages": "201",
+    "relatedCorrections": [],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21280091/",
+    "id": "21280091",
+    "slug": "21280091",
+    "titleZh": "人类癫痫中的极低频振荡",
+    "studySystems": [
+      "human"
+    ],
+    "topicIds": [
+      "infraslow"
+    ],
+    "design": "颅内记录病例系列",
+    "modelOrPopulation": "颅内记录病例系列",
+    "recordingModalities": [],
+    "relevanceTier": "supporting",
+    "inclusionReason": "超慢活动如何跨越发作前与发作过程？",
+    "question": "超慢活动如何跨越发作前与发作过程？",
+    "findings": [
+      "报告发作前出现、周期性慢负向基线变化，并在临床发作后消失的 VLFO。"
+    ],
+    "limitations": [
+      "重点在发作前活动；不能把它直接当作终止机制证据，也不能与任何慢漂移等同。"
+    ],
+    "evidenceLabels": [
+      "人类观察／临床研究"
+    ],
+    "endpointTypes": [
+      "终止与恢复"
+    ],
+    "fullTextAccess": "abstract-only",
+    "verificationStatus": "publishable",
+    "publicationStatus": "正式发表",
+    "verifiedAt": "2026-09-08",
+    "sourceLocators": [
+      "PubMed / Abstract"
+    ],
+    "relatedTrialIds": [],
+    "locale": "zh-CN"
+  },
+  {
+    "pmid": "31774955",
+    "titleOriginal": "Randomized Trial of Three Anticonvulsant Medications for Status Epilepticus.",
+    "authors": [
+      "Jaideep Kapur",
+      "Jordan Elm",
+      "James M Chamberlain",
+      "William Barsan",
+      "James Cloyd",
+      "Daniel Lowenstein",
+      "Shlomo Shinnar",
+      "Robin Conwit",
+      "Caitlyn Meinzer",
+      "Hannah Cock",
+      "Nathan Fountain",
+      "Jason T Connor",
+      "Robert Silbergleit",
+      "NETT and PECARN Investigators"
+    ],
+    "journal": "The New England journal of medicine",
+    "year": "2019",
+    "doi": "10.1056/NEJMoa1905795",
+    "pmcid": "PMC7098487",
+    "publicationTypes": [
+      "Comparative Study",
+      "Journal Article",
+      "Multicenter Study",
+      "Randomized Controlled Trial",
+      "Research Support, N.I.H., Extramural",
+      "Adaptive Clinical Trial"
+    ],
+    "volume": "381",
+    "pages": "2103",
+    "relatedCorrections": [
+      {
+        "type": "CommentIn",
+        "pmid": "31774965"
+      },
+      {
+        "type": "CommentIn",
+        "pmid": "31904430"
+      },
+      {
+        "type": "CommentIn",
+        "pmid": "33051691"
+      },
+      {
+        "type": "CommentIn",
+        "pmid": "33683605"
+      }
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/31774955/",
+    "id": "31774955",
+    "slug": "31774955",
+    "titleZh": "ESETT：持续状态的三药随机比较",
+    "studySystems": [
+      "human"
+    ],
+    "topicIds": [
+      "intervention",
+      "recovery"
+    ],
+    "design": "随机、盲法、自适应临床试验",
+    "modelOrPopulation": "随机、盲法、自适应临床试验",
+    "recordingModalities": [],
+    "relevanceTier": "direct",
+    "inclusionReason": "苯二氮䓬类治疗后持续的惊厥状态如何控制？",
+    "question": "苯二氮䓬类治疗后持续的惊厥状态如何控制？",
+    "findings": [
+      "三组在规定时间内达到临床发作停止及意识改善的比例相近。"
+    ],
+    "limitations": [
+      "复合临床终点含意识改善，不是单纯电生理终止率；试验人群限定为持续状态。"
+    ],
+    "evidenceLabels": [
+      "人类观察／临床研究"
+    ],
+    "endpointTypes": [
+      "持续状态控制"
+    ],
+    "fullTextAccess": "abstract-only",
+    "verificationStatus": "publishable",
+    "publicationStatus": "正式发表",
+    "verifiedAt": "2026-09-08",
+    "sourceLocators": [
+      "PubMed / Abstract"
+    ],
+    "relatedTrialIds": [
+      "NCT01960075"
+    ],
+    "locale": "zh-CN"
+  },
+  {
+    "pmid": "28073789",
+    "titleOriginal": "Dynamics of convulsive seizure termination and postictal generalized EEG suppression.",
+    "authors": [
+      "Prisca R Bauer",
+      "Roland D Thijs",
+      "Robert J Lamberts",
+      "Demetrios N Velis",
+      "Gerhard H Visser",
+      "Else A Tolner",
+      "Josemir W Sander",
+      "Fernando H Lopes da Silva",
+      "Stiliyan N Kalitzin"
+    ],
+    "journal": "Brain : a journal of neurology",
+    "year": "2017",
+    "doi": "10.1093/brain/aww322",
+    "pmcid": "PMC5837448",
+    "publicationTypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "volume": "140",
+    "pages": "655",
+    "relatedCorrections": [],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/28073789/",
+    "id": "28073789",
+    "slug": "28073789",
+    "titleZh": "惊厥终止与发作后广泛 EEG 抑制",
+    "studySystems": [
+      "human",
+      "model"
+    ],
+    "topicIds": [
+      "recovery",
+      "network-transitions"
+    ],
+    "design": "人类 EEG 与神经群体模型",
+    "modelOrPopulation": "人类 EEG 与神经群体模型",
+    "recordingModalities": [],
+    "relevanceTier": "direct",
+    "inclusionReason": "阵挛间隔变化是否关联发作后抑制？",
+    "question": "阵挛间隔变化是否关联发作后抑制？",
+    "findings": [
+      "末段阵挛间隔延长与发作后抑制的存在及持续时间存在联系，模型提供状态转换解释。"
+    ],
+    "limitations": [
+      "抑制状态不等于功能恢复，也不能由此单独推断个体临床风险。"
+    ],
+    "evidenceLabels": [
+      "观察与模型"
+    ],
+    "endpointTypes": [
+      "终止与恢复"
+    ],
+    "fullTextAccess": "abstract-only",
+    "verificationStatus": "publishable",
+    "publicationStatus": "正式发表",
+    "verifiedAt": "2026-09-08",
+    "sourceLocators": [
+      "PubMed / Abstract"
+    ],
+    "relatedTrialIds": [],
+    "locale": "zh-CN"
+  },
+  {
+    "pmid": "29540685",
+    "titleOriginal": "Predicting the spatiotemporal diversity of seizure propagation and termination in human focal epilepsy.",
+    "authors": [
+      "Timothée Proix",
+      "Viktor K Jirsa",
+      "Fabrice Bartolomei",
+      "Maxime Guye",
+      "Wilson Truccolo"
+    ],
+    "journal": "Nature communications",
+    "year": "2018",
+    "doi": "10.1038/s41467-018-02973-y",
+    "pmcid": "PMC5852068",
+    "publicationTypes": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, P.H.S."
+    ],
+    "volume": "9",
+    "pages": "1088",
+    "relatedCorrections": [],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29540685/",
+    "id": "29540685",
+    "slug": "29540685",
+    "titleZh": "传播与终止的时空多样性",
+    "studySystems": [
+      "human",
+      "model"
+    ],
+    "topicIds": [
+      "phenotypes",
+      "network-transitions"
+    ],
+    "design": "Epileptor 神经场与 SEEG 对照",
+    "modelOrPopulation": "Epileptor 神经场与 SEEG 对照",
+    "recordingModalities": [],
+    "relevanceTier": "direct",
+    "inclusionReason": "同一模型能否解释同步与分簇终止？",
+    "question": "同一模型能否解释同步与分簇终止？",
+    "findings": [
+      "神经场模型结合多时间尺度与耦合，重现传播和终止模式；人体记录提供对照。"
+    ],
+    "limitations": [
+      "模型变量是简化表征，不能逐一认定为实际测量的离子或生物过程。"
+    ],
+    "evidenceLabels": [
+      "观察与模型"
+    ],
+    "endpointTypes": [
+      "终止与恢复"
+    ],
+    "fullTextAccess": "full-text",
+    "verificationStatus": "publishable",
+    "publicationStatus": "正式发表",
+    "verifiedAt": "2026-09-08",
+    "sourceLocators": [
+      "PubMed / Abstract",
+      "PMC / 主文与图表说明"
+    ],
+    "relatedTrialIds": [],
+    "locale": "zh-CN",
+    "figures": [
+      {
+        "label": "图 1",
+        "title": "人类分簇终止",
+        "observation": "SEEG 示例展示不同脑区的终止延迟。",
+        "interpretation": "局部覆盖下的分簇不能等同全脑分类。"
+      },
+      {
+        "label": "图 2",
+        "title": "神经场框架",
+        "observation": "多个时间尺度与耦合重现传播及终止的宏观特征。",
+        "interpretation": "属于模型支持。"
+      },
+      {
+        "label": "图 3",
+        "title": "缓慢传播前沿",
+        "observation": "相空间与模型波前说明可兴奋介质中的募集过程。",
+        "interpretation": "模型波前不等同临床直接测量。"
+      },
+      {
+        "label": "图 4",
+        "title": "快速棘慢波传播",
+        "observation": "第二群体的脉冲传播提供另一时间尺度。",
+        "interpretation": "模型解释需要人体对照。"
+      },
+      {
+        "label": "图 5",
+        "title": "放电源移动",
+        "observation": "慢变量的空间变化改变棘慢波来源位置。",
+        "interpretation": "变量不是单一实测生物分子的同义词。"
+      },
+      {
+        "label": "图 6",
+        "title": "同步终止",
+        "observation": "模型与记录对照连接快速放电传播和共同终止。",
+        "interpretation": "支持一种机制解释，不证明唯一性。"
+      },
+      {
+        "label": "图 7",
+        "title": "异步分簇",
+        "observation": "终止延迟、相关性和连接结构对照解释分簇。",
+        "interpretation": "不同耦合条件提供表型多样性的解释。"
+      }
+    ],
+    "readingNote": "基于主文和主图表说明的要点解读；不复制原图。独立补充文件未全部核验。"
+  },
+  {
+    "pmid": "21677171",
+    "titleOriginal": "Ionic dynamics mediate spontaneous termination of seizures and postictal depression state.",
+    "authors": [
+      "Giri P Krishnan",
+      "Maxim Bazhenov"
+    ],
+    "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+    "year": "2011",
+    "doi": "10.1523/JNEUROSCI.6200-10.2011",
+    "pmcid": "PMC3163257",
+    "publicationTypes": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ],
+    "volume": "31",
+    "pages": "8870",
+    "relatedCorrections": [],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21677171/",
+    "id": "21677171",
+    "slug": "21677171",
+    "titleZh": "离子动力学与终止后抑制",
+    "studySystems": [
+      "model"
+    ],
+    "topicIds": [
+      "cellular-circuits",
+      "recovery"
+    ],
+    "design": "生物物理计算模型",
+    "modelOrPopulation": "生物物理计算模型",
+    "recordingModalities": [],
+    "relevanceTier": "direct",
+    "inclusionReason": "离子浓度的慢变化如何影响终止？",
+    "question": "离子浓度的慢变化如何影响终止？",
+    "findings": [
+      "模型中钠、钾、氯耦合动力学可改变发作持续时间和终止后的抑制。"
+    ],
+    "limitations": [
+      "计算支持不等于人体离子浓度的直接测量，需要独立实验验证。"
+    ],
+    "evidenceLabels": [
+      "模型支持"
+    ],
+    "endpointTypes": [
+      "终止与恢复"
+    ],
+    "fullTextAccess": "abstract-only",
+    "verificationStatus": "publishable",
+    "publicationStatus": "正式发表",
+    "verifiedAt": "2026-09-08",
+    "sourceLocators": [
+      "PubMed / Abstract"
+    ],
+    "relatedTrialIds": [],
+    "locale": "zh-CN"
+  },
+  {
+    "pmid": "26680762",
+    "titleOriginal": "Dynamic Network Drivers of Seizure Generation, Propagation and Termination in Human Neocortical Epilepsy.",
+    "authors": [
+      "Ankit N Khambhati",
+      "Kathryn A Davis",
+      "Brian S Oommen",
+      "Stephanie H Chen",
+      "Timothy H Lucas",
+      "Brian Litt",
+      "Danielle S Bassett"
+    ],
+    "journal": "PLoS computational biology",
+    "year": "2015",
+    "doi": "10.1371/journal.pcbi.1004608",
+    "pmcid": "PMC4682976",
+    "publicationTypes": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "volume": "11",
+    "pages": "e1004608",
+    "relatedCorrections": [],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/26680762/",
+    "id": "26680762",
+    "slug": "26680762",
+    "titleZh": "人类新皮层发作的动态网络状态",
+    "studySystems": [
+      "human"
+    ],
+    "topicIds": [
+      "network-transitions",
+      "phenotypes"
+    ],
+    "design": "ECoG 动态功能连接",
+    "modelOrPopulation": "ECoG 动态功能连接",
+    "recordingModalities": [],
+    "relevanceTier": "direct",
+    "inclusionReason": "发作演变是否对应可区分的网络状态？",
+    "question": "发作演变是否对应可区分的网络状态？",
+    "findings": [
+      "连接配置随发作重组，局部较强连接趋于收紧；研究将其与发作演变联系。"
+    ],
+    "limitations": [
+      "功能连接是统计关系，不能直接视为解剖连接或定向因果。"
+    ],
+    "evidenceLabels": [
+      "人类观察／临床研究"
+    ],
+    "endpointTypes": [
+      "终止与恢复"
+    ],
+    "fullTextAccess": "full-text",
+    "verificationStatus": "publishable",
+    "publicationStatus": "正式发表",
+    "verifiedAt": "2026-09-08",
+    "sourceLocators": [
+      "PubMed / Abstract",
+      "PMC / 主文与图表说明"
+    ],
+    "relatedTrialIds": [],
+    "locale": "zh-CN",
+    "figures": [
+      {
+        "label": "图 1",
+        "title": "动态连接流程",
+        "observation": "将 ECoG 分窗并估计连接，构造随时间变化的配置矩阵。",
+        "interpretation": "统计连接不是直接轴突连接。"
+      },
+      {
+        "label": "图 2",
+        "title": "状态识别",
+        "observation": "以配置相似性识别网络状态。",
+        "interpretation": "状态依赖估计方法与参数。"
+      },
+      {
+        "label": "图 3",
+        "title": "重组速度",
+        "observation": "比较发作前和发作期间的状态转换。",
+        "interpretation": "不同阶段有不同重组特征。"
+      },
+      {
+        "label": "图 4",
+        "title": "全局连接",
+        "observation": "连接密度和强弱连接分布随状态变化。",
+        "interpretation": "网络统计变化不直接确定终止原因。"
+      },
+      {
+        "label": "图 5",
+        "title": "区域分布",
+        "observation": "比较起始区内外的连接强度。",
+        "interpretation": "临床起始区标注是解释背景。"
+      },
+      {
+        "label": "图 6",
+        "title": "距离与强度",
+        "observation": "强连接较短，发作期间连接几何重组。",
+        "interpretation": "距离依赖与采样范围影响解释。"
+      },
+      {
+        "label": "表 1",
+        "title": "患者背景",
+        "observation": "列出临床背景、起始区和记录信息。",
+        "interpretation": "队列异质性限制简单汇总推断。"
+      }
+    ],
+    "readingNote": "基于主文和主图表说明的要点解读；不复制原图。独立补充文件未全部核验。"
+  },
+  {
+    "pmid": "40348201",
+    "titleOriginal": "Rodent and human seizures demonstrate a dynamic interplay with spreading depolarizations.",
+    "authors": [
+      "Jacob H Norby",
+      "Daniel Hummel",
+      "Noah Ricks",
+      "John Rolston",
+      "Shervin Rahimpour",
+      "Rhiannon Cowan",
+      "Juha Voipio",
+      "Andrew J Trevelyan",
+      "Elliot H Smith",
+      "R Ryley Parrish"
+    ],
+    "journal": "Neurobiology of disease",
+    "year": "2025",
+    "doi": "10.1016/j.nbd.2025.106937",
+    "pmcid": "PMC12086139",
+    "publicationTypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "volume": "211",
+    "pages": "106937",
+    "relatedCorrections": [],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40348201/",
+    "id": "40348201",
+    "slug": "40348201",
+    "titleZh": "啮齿类与人类发作中的传播性去极化关联",
+    "studySystems": [
+      "human",
+      "exvivo"
+    ],
+    "topicIds": [
+      "infraslow",
+      "cellular-circuits",
+      "recovery"
+    ],
+    "design": "啮齿类离体实验与人类颅内记录",
+    "modelOrPopulation": "啮齿类离体实验与人类颅内记录",
+    "recordingModalities": [],
+    "relevanceTier": "direct",
+    "inclusionReason": "超慢传播现象与终止如何关联？",
+    "question": "超慢传播现象与终止如何关联？",
+    "findings": [
+      "作者报告实验事件中的 SD 及人类传播性超慢变化；钾指标未显示预期的简单关联。"
+    ],
+    "limitations": [
+      "人类 SD 判定仍需审视采集与传播分析；同一研究中的不同证据层级不能合并为普遍因果结论。"
+    ],
+    "evidenceLabels": [
+      "人类观察",
+      "离体实验支持",
+      "作者的 SD 解释"
+    ],
+    "endpointTypes": [
+      "终止与恢复"
+    ],
+    "fullTextAccess": "full-text",
+    "verificationStatus": "publishable",
+    "publicationStatus": "正式发表",
+    "verifiedAt": "2026-09-08",
+    "sourceLocators": [
+      "PubMed / Abstract",
+      "PMC / 主文与图表说明"
+    ],
+    "relatedTrialIds": [],
+    "locale": "zh-CN",
+    "figures": [
+      {
+        "label": "图 1",
+        "title": "SLE 末段与 SD",
+        "observation": "比较伴随与不伴随 SD 的离体事件，前者较短、下一次事件更晚。",
+        "interpretation": "事件层面的关联不能自动升级为个体层面因果。"
+      },
+      {
+        "label": "图 2",
+        "title": "活动恢复",
+        "observation": "膜片钳比较显示伴随 SD 的事件后静默更久。",
+        "interpretation": "终止后的抑制延长与功能获益不是同义词。"
+      },
+      {
+        "label": "图 3",
+        "title": "低 gamma 与终止后抑制",
+        "observation": "比较事件中和事件后的频谱，低 gamma 存在组间差异。",
+        "interpretation": "频谱特征的预测效用需要独立验证。"
+      },
+      {
+        "label": "图 4",
+        "title": "细胞外钾",
+        "observation": "同步钾、AC 与 DC 记录未显示简单的钾峰值关联。",
+        "interpretation": "阴性结果限制单一钾驱动解释，不能排除所有钾作用。"
+      },
+      {
+        "label": "图 5",
+        "title": "人类超慢变化",
+        "observation": "脑区定位与多通道记录显示人类发作伴随超慢电位变化。",
+        "interpretation": "作者将其解释为 SD 相关，人类采集限制需单独审视。"
+      },
+      {
+        "label": "图 6",
+        "title": "传播与局部抑制",
+        "observation": "对照常规活动、超慢成分和空间时序。",
+        "interpretation": "提供传播性现象依据，分析定义影响解释。"
+      },
+      {
+        "label": "表 1",
+        "title": "脑区分布",
+        "observation": "比较不同脑区中发作及 SD 标记的组合。",
+        "interpretation": "触点／事件不应被看作彼此独立的患者。"
+      }
+    ],
+    "readingNote": "基于主文和主图表说明的要点解读；不复制原图。独立补充文件未全部核验。"
+  },
+  {
+    "pmid": "31140596",
+    "titleOriginal": "Safety and efficacy of midazolam nasal spray in the outpatient treatment of patients with seizure clusters-a randomized, double-blind, placebo-controlled trial.",
+    "authors": [
+      "Kamil Detyniecki",
+      "Peter J Van Ess",
+      "David J Sequeira",
+      "James W Wheless",
+      "Tze-Chiang Meng",
+      "William E Pullman"
+    ],
+    "journal": "Epilepsia",
+    "year": "2019",
+    "doi": "10.1111/epi.15159",
+    "pmcid": "PMC9291143",
+    "publicationTypes": [
+      "Clinical Trial, Phase III",
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "volume": "60",
+    "pages": "1797",
+    "relatedCorrections": [],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/31140596/",
+    "id": "31140596",
+    "slug": "31140596",
+    "titleZh": "ARTEMIS-1：发作簇急性救援",
+    "studySystems": [
+      "human"
+    ],
+    "topicIds": [
+      "intervention"
+    ],
+    "design": "随机双盲安慰剂对照试验",
+    "modelOrPopulation": "随机双盲安慰剂对照试验",
+    "recordingModalities": [],
+    "relevanceTier": "direct",
+    "inclusionReason": "院外救援能否实现快速且持续的控制？",
+    "question": "院外救援能否实现快速且持续的控制？",
+    "findings": [
+      "鼻用咪达唑仑组更常达到“10 分钟内终止且随后至 6 小时无复发”的复合终点。"
+    ],
+    "limitations": [
+      "随机人群、实际接受治疗人群与安全集不同；发作簇控制不能等同单次发作自然终止。"
+    ],
+    "evidenceLabels": [
+      "人类观察／临床研究"
+    ],
+    "endpointTypes": [
+      "发作簇控制"
+    ],
+    "fullTextAccess": "full-text",
+    "verificationStatus": "publishable",
+    "publicationStatus": "正式发表",
+    "verifiedAt": "2026-09-08",
+    "sourceLocators": [
+      "PubMed / Abstract",
+      "PMC / 主文与图表说明"
+    ],
+    "relatedTrialIds": [
+      "NCT01390220"
+    ],
+    "locale": "zh-CN",
+    "figures": [
+      {
+        "label": "图 1",
+        "title": "试验流程",
+        "observation": "安全试用后进入院外随机比较，按个体化发作簇定义识别事件。",
+        "interpretation": "试用阶段的筛选影响可推广人群。"
+      },
+      {
+        "label": "图 2",
+        "title": "分析人群",
+        "observation": "292 人接受试用，262 人随机，201 人实际接受双盲治疗并进入相应分析。",
+        "interpretation": "不同分母不能混用。"
+      },
+      {
+        "label": "图 3",
+        "title": "再次发作时间",
+        "observation": "Kaplan–Meier 分析显示两组后续无发作过程分离。",
+        "interpretation": "这是次要终点，注意删失与额外给药规则。"
+      },
+      {
+        "label": "表 1",
+        "title": "基线特征",
+        "observation": "比较安全集和随机治疗组的人口学与发作簇特征。",
+        "interpretation": "基线分布是解释适用人群的依据。"
+      },
+      {
+        "label": "表 2",
+        "title": "不良事件汇总",
+        "observation": "按试用和比较阶段、双盲和后续开放剂量分组。",
+        "interpretation": "不同阶段的风险不能直接合并比较。"
+      },
+      {
+        "label": "表 3",
+        "title": "常见不良事件",
+        "observation": "报告鼻部不适、嗜睡等常见事件。",
+        "interpretation": "本文提供研究信息，不构成个体处方。"
+      }
+    ],
+    "readingNote": "基于主文和主图表说明的要点解读；不复制原图。独立补充文件未全部核验。"
+  },
+  {
+    "pmid": "36086229",
+    "titleOriginal": "Dynamics of seizure termination in a non-human primate kindling model of mesial temporal lobe epilepsy.",
+    "authors": [
+      "Mary K McIntosh",
+      "Ron Levy"
+    ],
+    "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+    "year": "2022",
+    "doi": "10.1109/EMBC48229.2022.9871670",
+    "pmcid": null,
+    "publicationTypes": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "volume": "2022",
+    "pages": "4374",
+    "relatedCorrections": [],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/36086229/",
+    "id": "36086229",
+    "slug": "36086229",
+    "titleZh": "非人灵长类点燃模型的终止动力学",
+    "studySystems": [
+      "animal"
+    ],
+    "topicIds": [
+      "network-transitions",
+      "phenotypes"
+    ],
+    "design": "会议论文；点燃模型",
+    "modelOrPopulation": "会议论文；点燃模型",
+    "recordingModalities": [],
+    "relevanceTier": "direct",
+    "inclusionReason": "发作灶外节律如何变化？",
+    "question": "发作灶外节律如何变化？",
+    "findings": [
+      "报告终止附近灶外 theta 增强及与灶内 gamma 的耦合变化。"
+    ],
+    "limitations": [
+      "点燃与后放电范式、简短会议报告的可用细节限制临床外推。"
+    ],
+    "evidenceLabels": [
+      "实验支持"
+    ],
+    "endpointTypes": [
+      "终止与恢复"
+    ],
+    "fullTextAccess": "abstract-only",
+    "verificationStatus": "publishable",
+    "publicationStatus": "正式发表",
+    "verifiedAt": "2026-09-08",
+    "sourceLocators": [
+      "PubMed / Abstract"
+    ],
+    "relatedTrialIds": [],
+    "locale": "zh-CN"
+  },
+  {
+    "pmid": "38813941",
+    "titleOriginal": "Outpatient management of prolonged seizures and seizure clusters to prevent progression to a higher-level emergency: Consensus recommendations of an expert working group.",
+    "authors": [
+      "Jesus Eric Pina-Garza",
+      "Michael Chez",
+      "James Cloyd",
+      "Lawrence J Hirsch",
+      "Reetta Kälviäinen",
+      "Pavel Klein",
+      "Lieven Lagae",
+      "Raman Sankar",
+      "Nicola Specchio",
+      "Adam Strzelczyk",
+      "Manuel Toledo",
+      "Eugen Trinka"
+    ],
+    "journal": "Epileptic disorders : international epilepsy journal with videotape",
+    "year": "2024",
+    "doi": "10.1002/epd2.20243",
+    "pmcid": null,
+    "publicationTypes": [
+      "Journal Article",
+      "Consensus Statement"
+    ],
+    "volume": "26",
+    "pages": "484",
+    "relatedCorrections": [],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38813941/",
+    "id": "38813941",
+    "slug": "38813941",
+    "titleZh": "延长发作与发作簇的院外管理共识",
+    "studySystems": [
+      "review"
+    ],
+    "topicIds": [
+      "intervention"
+    ],
+    "design": "专家共识；修订 Delphi 方法",
+    "modelOrPopulation": "专家共识；修订 Delphi 方法",
+    "recordingModalities": [],
+    "relevanceTier": "context",
+    "inclusionReason": "如何区分急性终止与发作簇治疗目标？",
+    "question": "如何区分急性终止与发作簇治疗目标？",
+    "findings": [
+      "专家提出延长发作、发作簇及早期救援目标的共同表述。"
+    ],
+    "limitations": [
+      "共识不是随机疗效证据，本文提出的定义也不自动替代其他正式指南。"
+    ],
+    "evidenceLabels": [
+      "综述／共识"
+    ],
+    "endpointTypes": [
+      "终止与恢复"
+    ],
+    "fullTextAccess": "abstract-only",
+    "verificationStatus": "publishable",
+    "publicationStatus": "正式发表",
+    "verifiedAt": "2026-09-08",
+    "sourceLocators": [
+      "PubMed / Abstract"
+    ],
+    "relatedTrialIds": [],
+    "locale": "zh-CN"
+  },
+  {
+    "pmid": "37192344",
+    "titleOriginal": "Optogenetic stimulation of the superior colliculus suppresses genetic absence seizures.",
+    "authors": [
+      "Carolina Campos-Rodriguez",
+      "Devin Palmer",
+      "Patrick A Forcelli"
+    ],
+    "journal": "Brain : a journal of neurology",
+    "year": "2023",
+    "doi": "10.1093/brain/awad166",
+    "pmcid": "PMC11004938",
+    "publicationTypes": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ],
+    "volume": "146",
+    "pages": "4320",
+    "relatedCorrections": [],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37192344/",
+    "id": "37192344",
+    "slug": "37192344",
+    "titleZh": "上丘闭环刺激与遗传性失神发作",
+    "studySystems": [
+      "animal"
+    ],
+    "topicIds": [
+      "intervention",
+      "cellular-circuits"
+    ],
+    "design": "WAG/Rij 大鼠光遗传实验",
+    "modelOrPopulation": "WAG/Rij 大鼠光遗传实验",
+    "recordingModalities": [],
+    "relevanceTier": "direct",
+    "inclusionReason": "开环与闭环刺激的效果是否一致？",
+    "question": "开环与闭环刺激的效果是否一致？",
+    "findings": [
+      "闭环刺激在雌雄动物中均有抗发作效应；持续刺激存在性别相关差异。"
+    ],
+    "limitations": [
+      "失神棘慢波事件与局灶发作不同，刺激范式和性别效应需要保留。"
+    ],
+    "evidenceLabels": [
+      "实验支持"
+    ],
+    "endpointTypes": [
+      "终止与恢复"
+    ],
+    "fullTextAccess": "abstract-only",
+    "verificationStatus": "publishable",
+    "publicationStatus": "正式发表",
+    "verifiedAt": "2026-09-08",
+    "sourceLocators": [
+      "PubMed / Abstract"
+    ],
+    "relatedTrialIds": [],
+    "locale": "zh-CN"
+  },
+  {
+    "pmid": "25078503",
+    "titleOriginal": "Seizure termination.",
+    "authors": [
+      "Frédéric Zubler",
+      "Andreas Steimer",
+      "Heidemarie Gast",
+      "Kaspar A Schindler"
+    ],
+    "journal": "International review of neurobiology",
+    "year": "2014",
+    "doi": "10.1016/B978-0-12-418693-4.00008-X",
+    "pmcid": null,
+    "publicationTypes": [
+      "Journal Article",
+      "Review"
+    ],
+    "volume": "114",
+    "pages": "187",
+    "relatedCorrections": [],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/25078503/",
+    "id": "25078503",
+    "slug": "25078503",
+    "titleZh": "发作终止：代谢与网络两条路径",
+    "studySystems": [
+      "review"
+    ],
+    "topicIds": [
+      "cellular-circuits",
+      "network-transitions"
+    ],
+    "design": "综述章节",
+    "modelOrPopulation": "综述章节",
+    "recordingModalities": [],
+    "relevanceTier": "context",
+    "inclusionReason": "代谢与网络研究如何互补？",
+    "question": "代谢与网络研究如何互补？",
+    "findings": [
+      "综述把离子、酸碱和调质变化与定量网络方法并列讨论。"
+    ],
+    "limitations": [
+      "概念综述用于研究导航，不能单独支持特定患者或实验的因果结论。"
+    ],
+    "evidenceLabels": [
+      "综述／共识"
+    ],
+    "endpointTypes": [
+      "终止与恢复"
+    ],
+    "fullTextAccess": "abstract-only",
+    "verificationStatus": "publishable",
+    "publicationStatus": "正式发表",
+    "verifiedAt": "2026-09-08",
+    "sourceLocators": [
+      "PubMed / Abstract"
+    ],
+    "relatedTrialIds": [],
+    "locale": "zh-CN"
+  }
+]

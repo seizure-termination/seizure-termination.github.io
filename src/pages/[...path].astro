@@ -1,0 +1,8 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { pages } from '../lib/site';
+import { englishPages } from '../lib/english';
+export function getStaticPaths(){return [...pages,...englishPages].map(page=>({params:{path:page.path || undefined},props:{page}}));}
+const { page }=Astro.props;
+---
+<Layout title={page.title} description={page.description} path={page.path}><Fragment set:html={page.html} /></Layout>

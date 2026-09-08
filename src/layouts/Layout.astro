@@ -1,0 +1,40 @@
+---
+import '../styles/global.css';
+import { u, nav } from '../lib/site';
+interface Props { title: string; description: string; path?: string; }
+const { title, description, path='' }=Astro.props;
+const english=path==='en'||path.startsWith('en/');
+const logicalPath=english?path.replace(/^en\/?/,''):path;
+const localPath=logicalPath?logicalPath.replace(/\/$/,'')+'/':'';
+const zhHref=u(localPath),enHref=u('en/'+localPath);
+const lang=english?'en':'zh-CN';
+const t=(zh:string,en:string)=>english?en:zh;
+const local=(p='')=>u((english?'en/':'')+p);
+const navEn:Record<string,string>={'about/':'About','research/':'Research','atlas/':'Atlas','evidence/':'Literature & trials','work/':'Our work','news/':'News','team/':'Investigator'};
+const active=(p:string)=>localPath.startsWith(p)||(p==='evidence/'&&['library/','trials/','methods/','resources/'].some(x=>localPath.startsWith(x)));
+const canonical=Astro.site?new URL(english?enHref:zhHref,Astro.site):undefined;
+---
+<!doctype html>
+<html lang={lang}>
+<head>
+  <meta charset="UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="description" content={description}/><meta name="theme-color" content="#f5f4ee"/>
+  <title>{title} | Seizure Termination</title>
+  {canonical&&<link rel="canonical" href={canonical}/>}
+  <link rel="alternate" hreflang="zh-CN" href={Astro.site?new URL(zhHref,Astro.site):zhHref}/>
+  <link rel="alternate" hreflang="en" href={Astro.site?new URL(enHref,Astro.site):enHref}/>
+  <link rel="alternate" hreflang="x-default" href={Astro.site?new URL(zhHref,Astro.site):zhHref}/>
+  <link rel="icon" type="image/svg+xml" href={u('images/favicon.svg')}/>
+</head>
+<body class:list={{'is-home':logicalPath==='','is-english':english}}>
+<a class="skip-link" href="#main">{t('跳到主要内容','Skip to main content')}</a>
+<header class="site-header"><div class="header-inner">
+  <a class="brand" href={local()} aria-label={t('癫痫发作终止 首页','Seizure Termination home')}><span class="brand-icon" aria-hidden="true">∿</span><span><strong>SEIZURE TERMINATION</strong><small>{t('癫痫发作终止','Mechanisms · Evidence · Recovery')}</small></span></a>
+  <nav class="desktop-nav" aria-label={t('主导航','Main navigation')}>{nav.map(n=><a href={local(n.path)} aria-current={active(n.path)?'page':undefined}>{english?navEn[n.path]:n.label}</a>)}</nav>
+  <div class="header-actions"><a class="language-switch" data-language-switch href={english?zhHref:enHref} hreflang={english?'zh-CN':'en'} lang={english?'zh-CN':'en'} aria-label={english?'Switch to Chinese':'切换到英文'}>{english?'中文':'English'}</a>
+  <details class="mobile-nav"><summary>{t('菜单','Menu')} <span aria-hidden="true">☰</span></summary><nav aria-label={t('移动导航','Mobile navigation')}>{nav.map(n=><a href={local(n.path)}>{english?navEn[n.path]:n.label}</a>)}<a href={local('trials/')}>{t('注册研究','Registered studies')}</a><a href={local('methods/')}>{t('方法与资源','Methods and resources')}</a></nav></details></div>
+</div></header>
+<main id="main"><slot/></main>
+<footer class="site-footer"><div class="footer-top"><div><p class="eyebrow">SEIZURE TERMINATION</p><h2>{t('理解停止，探索恢复。','Understand cessation. Explore recovery.')}</h2><p>{t('连接人类电生理、实验机制与临床研究。','Connecting human electrophysiology, experimental mechanisms and clinical research.')}</p></div><div class="footer-links">{[['library/','文献库','Literature'],['trials/','注册研究','Registered studies'],['methods/','方法与资源','Methods'],['about/evidence-policy/','证据与更新规则','Evidence policy'],['team/','主要研究者','Principal investigator'],['contact/','联系与合作','Contact'],['public/','公众问答','Public questions']].map(([p,zh,en])=><a href={local(p)}>{t(zh,en)}</a>)}</div></div><div class="footer-bottom"><span>{t('科研与健康教育资源 · 不代替个体诊疗建议','Research and education · Not individual medical advice')}</span><span>{t('内容核验','Content verified')}: 2026-09-08 · <a href="https://cdkl5-care.github.io/" target="_blank" rel="noreferrer">{t('课题组 CDKL5 网站','Group CDKL5 website')} ↗</a></span></div></footer>
+<script is:inline src={u('scripts/app.js')} defer></script>
+</body></html>

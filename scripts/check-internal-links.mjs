@@ -1,0 +1,6 @@
+import fs from 'node:fs';import path from 'node:path';
+const root=path.resolve(process.env.DIST_DIR||'dist');const base=(process.env.BASE_PATH||'/').replace(/\/$/,'');const files=[];
+function walk(dir){for(const item of fs.readdirSync(dir,{withFileTypes:true})){const p=path.join(dir,item.name);if(item.isDirectory())walk(p);else if(p.endsWith('.html'))files.push(p)}}walk(root);
+const errors=[];let checks=0;
+for(const f of files){const html=fs.readFileSync(f,'utf8');for(const match of html.matchAll(/(?:href|src)="([^"#]+)"/g)){let value=match[1].replace(/&amp;/g,'&');if(/^(https?:|mailto:|data:|tel:)/.test(value))continue;value=value.split(/[?#]/)[0];if(!value)continue;checks++;if(value.startsWith('/')&&base&&!value.startsWith(base+'/')){errors.push(`${path.relative(root,f)}: missing base ${value}`);continue;}let p=value.startsWith('/')?path.join(root,value.slice(base.length)):path.resolve(path.dirname(f),value);if(fs.existsSync(p)&&fs.statSync(p).isDirectory())p=path.join(p,'index.html');if(!fs.existsSync(p))errors.push(`${path.relative(root,f)} -> ${value}`);}}
+if(errors.length){console.error(errors.join('\n'));process.exit(1)}console.log(`PASS: ${files.length} pages, ${checks} internal link / asset references; base=${base||'/'}`);

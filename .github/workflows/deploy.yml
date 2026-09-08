@@ -1,0 +1,44 @@
+name: Publish reviewed site to GitHub Pages
+on:
+  workflow_dispatch:
+    inputs:
+      site_url:
+        description: Confirmed site origin
+        default: https://seizure-termination.github.io
+        required: true
+        type: string
+      base_path:
+        description: Root path or actual repository path
+        required: true
+        default: /
+        type: string
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: withastro/action@v6
+        with:
+          node-version: 24
+          package-manager: pnpm@11.19.0
+          build-cmd: pnpm run check && pnpm run build && pnpm run check:links
+        env:
+          SITE_URL: ${{ inputs.site_url }}
+          BASE_PATH: ${{ inputs.base_path }}
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v5
